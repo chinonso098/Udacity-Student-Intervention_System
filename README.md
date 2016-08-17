@@ -1,5 +1,5 @@
 # Udacity-Student-Intervention-System-Overview
-This project utilizes supervised machine learning models to predict which students from a given data set are at risk of failing
+This project utilizes supervised machine learning models to predict which students from a given data set are at risk of failing.
 
 Model Selection for the Student Intervention System
 
